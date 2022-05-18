@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia;
+}
+.frem{
+    width: 90%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+.frem p{
+    font-size: 7rem;
+    color: #00000063;
+}
+.frem h2{
+    font-size: 34px;
+    display: block;
+    width: 90%;
+    text-align: center;
+}
+.frem h5{
+    color: #9c9c9c;
+    display: block;
+    width: 90%;
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.frem a{
+    background: #44c96e;
+    padding: 12px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 23px;
+    border-radius: 13px;
+    display: block;
+    text-align: center;
+}
